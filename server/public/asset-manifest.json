@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/home/maiiless/Documentos/systesis/frontend/build/static/css/main.520b351e.css",
+    "main.js": "/home/maiiless/Documentos/systesis/frontend/build/static/js/main.6e5c5214.js",
+    "static/media/pet2.jpg": "/home/maiiless/Documentos/systesis/frontend/build/static/media/pet2.a7ff0473d8e498a7d8d4.jpg",
+    "static/media/pet4.jpg": "/home/maiiless/Documentos/systesis/frontend/build/static/media/pet4.bc083dd4828bd90a3afc.jpg",
+    "static/media/pet1.jpg": "/home/maiiless/Documentos/systesis/frontend/build/static/media/pet1.040b0cf0e2cf1f9f1964.jpg",
+    "static/media/logo.jpg": "/home/maiiless/Documentos/systesis/frontend/build/static/media/logo.dda53cdd51978d236d02.jpg",
+    "static/media/icon_menu.svg": "/home/maiiless/Documentos/systesis/frontend/build/static/media/icon_menu.3aa38c5e16715afedfa9b1adb8607b7d.svg",
+    "index.html": "/home/maiiless/Documentos/systesis/frontend/build/index.html",
+    "main.520b351e.css.map": "/home/maiiless/Documentos/systesis/frontend/build/static/css/main.520b351e.css.map",
+    "main.6e5c5214.js.map": "/home/maiiless/Documentos/systesis/frontend/build/static/js/main.6e5c5214.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.520b351e.css",
+    "static/js/main.6e5c5214.js"
+  ]
+}

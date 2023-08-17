@@ -1,0 +1,130 @@
+.list-content {
+    display: grid;
+    justify-content: center;
+}
+
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #af81db;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #af81db;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #af81db;
+}
+
+.button {
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    width: 100%;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+ .pet-button {
+    background-color: #4fc1c5;
+  }
+
+  .edit-button {
+    background-color: #df5b33;
+  }
+
+  .delete-button {
+    background-color: #da1b1b;
+  }
+
+  .create-button {
+    background-color: #11b11e;
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    width: 100%;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 10px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .input-inset{
+    font-size: 16px;
+    line-height: 1.5;
+    background: #FFFFFF;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='19' height='19' viewBox='0 0 19 19'><path fill='%23838D99' d='M13.98 12.57a2 2 0 0 1 1.93.52l2.5 2.5a2 2 0 0 1-2.82 2.82l-2.5-2.5a2 2 0 0 1-.52-1.93l-1.38-1.37a7 7 0 1 1 1.42-1.42l1.37 1.38zm-3.37-2.03a5 5 0 1 0-7.08-7.08 5 5 0 0 0 7.08 7.08z'></path></svg>");
+    background-repeat: no-repeat;
+    background-position: 10px 10px;
+    background-size: 20px 20px;
+    border: 1px solid #C5CBD5;
+    box-shadow: inset 0 1px 4px 0 rgba(0,0,0,0.20);
+    border-radius: 8px;
+    width: 300px;
+    padding: .5em 1em .5em 2.5em;
+    } 
+    
+    .input-inset::placeholder{
+      color: #838D99;
+    }
+    
+    .input-inset:focus {
+      outline: none;
+      border: 1px solid #84A2FA;
+    }
+
+    .imagen img {
+      width: 45px;
+      margin-right: 10px;
+
+    }
+
+    .encabezado {
+      display: flex;
+    }
+
+    .calendar-appo {
+      display: flex;
+
+    }
+
+  .calendar-div {
+      width: 40%;
+      
+    }
+
+    .list-div {
+      width: 50%;
+    }
+
+
